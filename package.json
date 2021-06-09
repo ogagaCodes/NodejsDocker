@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Dockerizing nodejs app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogagaCodes/NodejsDocker.git"
+  },
+  "author": "LORD OGAGA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogagaCodes/NodejsDocker/issues"
+  },
+  "homepage": "https://github.com/ogagaCodes/NodejsDocker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "react": "^17.0.2"
+  }
+}
